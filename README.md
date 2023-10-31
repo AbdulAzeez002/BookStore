@@ -10,13 +10,13 @@ To get started with this project, follow these steps:
    - Clone the repository:
 
      ```sh
-     git clone https://github.com/yourusername/yourproject.git
+     git clone https://github.com/AbdulAzeez002/BookStore.git
      ```
 
    - Navigate to the project directory:
 
      ```sh
-     cd yourproject
+     cd BookStore
      ```
 
    - Install project dependencies:
